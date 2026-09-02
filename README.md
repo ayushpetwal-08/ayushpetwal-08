@@ -69,7 +69,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my skills, projects and experience.
-
+<a href="https://ayush-petwal-portfolio.vercel.app/">Live</a>
 **Tech:** React • Tailwind CSS • JavaScript
 
 ---
@@ -77,7 +77,8 @@ My personal developer portfolio showcasing my skills, projects and experience.
 ### ✅ Task Management Application
 
 A full-stack task management application with authentication and CRUD functionality.
-
+<a href="https://github.com/ayushpetwal-08/Task-Management-Application">Source Code</a>
+<a href="https://task-management-application-theta-fawn.vercel.app/">Live Demo</a>
 **Tech:** React • Node.js • Express • MongoDB
 
 ---
@@ -153,7 +154,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://ayush-petwal-portfolio.vercel.app/)">
+<a href="https://ayush-petwal-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
