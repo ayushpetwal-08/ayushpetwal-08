@@ -69,6 +69,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my skills, projects and experience.
+<br />
 <a href="https://ayush-petwal-portfolio.vercel.app/">Live</a>
 **Tech:** React • Tailwind CSS • JavaScript
 
@@ -77,6 +78,7 @@ My personal developer portfolio showcasing my skills, projects and experience.
 ### ✅ Task Management Application
 
 A full-stack task management application with authentication and CRUD functionality.
+<br />
 <a href="https://github.com/ayushpetwal-08/Task-Management-Application">Source Code</a>
 <a href="https://task-management-application-theta-fawn.vercel.app/">Live Demo</a>
 **Tech:** React • Node.js • Express • MongoDB
@@ -94,6 +96,8 @@ A full-stack e-commerce platform with product management, cart and order functio
 ### 🧠 DSA in C++
 
 My journey of learning and practicing Data Structures & Algorithms.
+<br />
+<a href="https://github.com/ayushpetwal-08/DSA-LeedCode-Questions">Github link</a>
 
 **Topics:** Arrays • Strings • Sorting • Searching • Recursion • Linked List • Stack • Queue • Trees
 
@@ -115,7 +119,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayushpetwal-08&theme=github-dark-blue&hide_border=true" />
+<img src="https://ayushpetwal-08&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
