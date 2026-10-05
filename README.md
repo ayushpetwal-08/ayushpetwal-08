@@ -53,7 +53,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgre,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,docker" />
 </p>
 
 ### 🔧 Tools
