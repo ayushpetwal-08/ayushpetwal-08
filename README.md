@@ -53,7 +53,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker" />
 </p>
 
 ### 🔧 Tools
@@ -140,6 +140,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 - ⚛️ Advanced React
 - 🟢 Node.js & Express
 - 🍃 MongoDB
+- ⚙️ Advanced Backend
 - 🧠 Advanced DSA
 - 🤖 AI Integration
 - 🌍 Open Source
