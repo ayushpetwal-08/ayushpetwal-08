@@ -41,13 +41,13 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -72,6 +72,15 @@ My personal developer portfolio showcasing my skills, projects and experience.
 <br />
 <a href="https://ayush-petwal-portfolio.vercel.app/">Live</a>
 **Tech:** React • Tailwind CSS • JavaScript
+
+---
+### 🔍 GitHub Profile Finder
+
+A React-based web application that allows users to search GitHub profiles and explore their public repositories using the GitHub REST API.
+<br />
+<a href="https://github.com/ayushpetwal-08/github-profile-finder">Source Code</a>
+<a href="https://github-profile-finder-seven-iota.vercel.app/">Live</a>
+**Tech:** Tailwindcss • React • REST APIs(Github APIs)
 
 ---
 
@@ -143,6 +152,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 - ⚙️ Advanced Backend
 - 🧠 Advanced DSA
 - 🤖 AI Integration
+- 🤖 Agentic Ai
 - 🌍 Open Source
 
 ---
