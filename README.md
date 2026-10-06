@@ -59,7 +59,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
 ---
