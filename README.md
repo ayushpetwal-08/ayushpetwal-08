@@ -64,7 +64,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 Personal Portfolio
 
@@ -136,24 +136,24 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ## 🎯 Current Focus
 
-- 🚀 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- 🤖 AI & AI Integration
-- 🌍 Open Source Contribution
-- 💡 Building Real-World Projects
+-  Full Stack Development
+-  Data Structures & Algorithms
+-  AI & AI Integration
+-  Open Source Contribution
+-  Building Real-World Projects
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚛️ Advanced React
-- 🟢 Node.js & Express
-- 🍃 MongoDB
-- ⚙️ Advanced Backend
-- 🧠 Advanced DSA
-- 🤖 AI Integration
-- 🤖 Agentic Ai
-- 🌍 Open Source
+-  Advanced React
+-  Node.js & Express
+-  MongoDB
+-  Advanced Backend
+-  Advanced DSA
+-  AI Integration
+-  Agentic Ai
+-  Open Source
 
 ---
 
