@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Petwal
+#  Hey, I'm Ayush Petwal
 
-### 💻 Full Stack Developer | MERN | DSA | AI Integration
+### Full Stack Developer | MERN | DSA | AI Integration
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Web+Applications;Practicing+DSA+with+C%2B%2B;Exploring+AI+%26+AI+Integration;Learning+%7C+Building+%7C+Improving" />
 
@@ -22,13 +22,13 @@
 
 ## ⌁ About Me
 
-- 🎓 BCA Student
-- 💻 Full Stack Developer in Progress
-- ⚛️ Building applications with React & Node.js
-- 🧠 Practicing DSA using C++
-- 🤖 Exploring AI & AI Integration
-- 🌍 Interested in Open Source Contributions
-- 🚀 Building Real-World Projects
+-  BCA Student
+-  Full Stack Developer in Progress
+-  Building applications with React & Node.js
+-  Practicing DSA using C++
+-  Exploring AI & AI Integration
+-  Interested in Open Source Contributions
+-  Building Real-World Projects
 
 I enjoy turning ideas into useful, responsive and scalable web applications.
 
@@ -36,27 +36,27 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,docker" />
 </p>
 
-### 🔧 Tools
+###  Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
@@ -66,7 +66,7 @@ Currently focused on strengthening my **Full Stack Development, DSA and AI Integ
 
 ##  Featured Projects
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 
 My personal developer portfolio showcasing my skills, projects and experience.
 <br />
@@ -74,7 +74,7 @@ My personal developer portfolio showcasing my skills, projects and experience.
 **Tech:** React • Tailwind CSS • JavaScript
 
 ---
-### 🔍 GitHub Profile Finder
+###  GitHub Profile Finder
 
 A React-based web application that allows users to search GitHub profiles and explore their public repositories using the GitHub REST API.
 <br />
@@ -84,7 +84,7 @@ A React-based web application that allows users to search GitHub profiles and ex
 
 ---
 
-### ✅ Task Management Application
+###  Task Management Application
 
 A full-stack task management application with authentication and CRUD functionality.
 <br />
@@ -94,7 +94,7 @@ A full-stack task management application with authentication and CRUD functional
 
 ---
 
-### 🛒 E-Commerce Application
+###  E-Commerce Application
 
 A full-stack e-commerce platform with product management, cart and order functionality.
 
@@ -102,7 +102,7 @@ A full-stack e-commerce platform with product management, cart and order functio
 
 ---
 
-### 🧠 DSA in C++
+###  DSA in C++
 
 My journey of learning and practicing Data Structures & Algorithms.
 <br />
@@ -112,7 +112,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -124,7 +124,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
@@ -134,7 +134,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 -  Full Stack Development
 -  Data Structures & Algorithms
@@ -144,7 +144,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 -  Advanced React
 -  Node.js & Express
@@ -157,7 +157,7 @@ My journey of learning and practicing Data Structures & Algorithms.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
