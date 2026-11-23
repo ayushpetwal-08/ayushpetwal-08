@@ -22,7 +22,7 @@
 
 ## ⌁ About Me
 
--  BCA Student
+-  Final Year BCA Student
 -  Full Stack Developer in Progress
 -  Building applications with React & Node.js
 -  Practicing DSA using C++
@@ -147,10 +147,8 @@ My journey of learning and practicing Data Structures & Algorithms.
 ##  Currently Learning
 
 -  Advanced React
--  Node.js & Express
--  MongoDB
 -  Advanced Backend
--  Advanced DSA
+-  Advanced DSA Conceptts
 -  AI Integration
 -  Agentic Ai
 -  Open Source
